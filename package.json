@@ -1,0 +1,27 @@
+{
+  "name": "smart-helpers-love",
+  "version": "1.0.0",
+  "description": "Smart Helpers is a Node.js module providing a collection of smart helper functions for various purposes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sdan04017/smart-helpers-love"
+  },
+  "dependencies": {
+    "moment": "^2.29.1",
+    "jessicamogel03-random-array": "1.1.4",
+    "rate-random-array": "1.0.0",
+    "curryd224-uuid-utils": "1.1.4",
+    "mindful-living-face": "1.0.0",
+    "castquantum-coder": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sdan04017/smart-helpers-love/issues"
+  },
+  "homepage": "https://github.com/sdan04017/smart-helpers-love#readme"
+}
